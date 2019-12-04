@@ -1,0 +1,9 @@
+#about {
+  border-bottom: 1px solid white;
+  height: 500px;
+  align-items: center;
+  text-align: center;
+}
+#about .heading {
+  padding-top: 50px;
+}
